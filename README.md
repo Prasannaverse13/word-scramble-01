@@ -30,7 +30,7 @@ Word Scramble is an interactive Reddit-based game where players are presented wi
 - Natural Language Processing for word processing
 
 ## Developer Information
-- App Name: Word Scramble
+- App Name: Word-Scramble-01
 - App Link: https://developers.reddit.com/apps/word-scramble-0
 
 ## Commands
