@@ -23,11 +23,6 @@ Word Scramble is an interactive Reddit-based game where players are presented wi
 - Hint system
 - User progress tracking
 
-## Technologies Used
-- Python
-- PRAW (Python Reddit API Wrapper)
-- SQLite/PostgreSQL for score tracking
-- Natural Language Processing for word processing
 
 ## Developer Information
 - App Name: Word-Scramble-01
